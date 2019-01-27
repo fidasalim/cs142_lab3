@@ -1,7 +1,7 @@
-//including library
+lab3_q1//including library
 #include <iostream>
 using namespace std;
-
+lab3_q1
 class Node{
 	public:
 	//variable to store data 
@@ -23,7 +23,7 @@ class DLL{
 	Node * head;
 	//constructer for defining a dlinked list
 	DLL(){
-		head = NULL;
+		head = NULL;lab3_q1
 	}
 
 	void insert(int value){
