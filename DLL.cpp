@@ -1,7 +1,7 @@
-lab3_q1//including library
+//including library
 #include <iostream>
 using namespace std;
-lab3_q1
+
 class Node{
 	public:
 	//variable to store data 
