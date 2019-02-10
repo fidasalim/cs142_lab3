@@ -23,7 +23,7 @@ class DLL{
 	Node * head;
 	//constructer for defining a dlinked list
 	DLL(){
-		head = NULL;lab3_q1
+		head = NULL;
 	}
 
 	void insert(int value){
